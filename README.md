@@ -2,8 +2,8 @@
 A curated list of useful PostGIS commands with PostgreSQL.\
 We will be primaryly dealing with **GEOGRAPHY** data types.
 
-Note: A **GEOGRAPHY** type is same as **GEOMETRY** type with SRID of *4326*\. So anywhere you see *4326* that refers to *SRID*
-If you run these commands in [pgAdmin4](https://www.pgadmin.org/download/), you get the opportunity to view these geo data from a map.
+Note: A **GEOGRAPHY** type is same as **GEOMETRY** type with SRID of *4326*\. So anywhere you see *4326* that refers to *SRID*\
+If you run these commands in [pgAdmin4](https://www.pgadmin.org/download/), you get the opportunity to view these geo data in a map.
 
 ## Table of contents
 - [Why use PostGIS](#why-postgis)
