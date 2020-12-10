@@ -148,7 +148,7 @@ SELECT ST_AsGeoJSON('0101000020E610000012D90759164CD0BF3F19E3C3EC351640');
 ```
 ***
 ## Point in Polygon
-There instaces where you want to determine if a point is inside a polygon. Use this query
+There are instances where you want to determine if a point is inside a polygon. Use this query
 
 ```sql
 SELECT ST_Contains(polygon_column, point_column);
