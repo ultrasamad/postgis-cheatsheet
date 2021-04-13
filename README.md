@@ -135,7 +135,7 @@ SELECT ST_Buffer(ST_MakePoint(lon, lat)::geography, radius);
 ```
 Note: Radius is in meters
 ***
-#Parse WKB
+## Parse WKB
 These are some examples showing how to parse Well Known binaries(WKB)
 - Parse to text
 
